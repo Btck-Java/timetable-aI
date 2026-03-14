@@ -1,8 +1,8 @@
 # Project Directory Structure
 
-*Generated: 2026-03-10 22:37:05*
+*Generated: 2026-03-13 10:32:20*
 
-Summary: 27 directories, 23 files, 0 Python files
+Summary: 40 directories, 57 files, 0 Python files
 
 ```
 + **javaFX**
@@ -15,9 +15,11 @@ Summary: 27 directories, 23 files, 0 Python files
                             + **config**
                             + **controller**
                             + **dto**
+                                + **response**
                             + **entity**
                             + **service**
                             + **util**
+                                + **Function**
                                 + **jwt**
             + **resources**
                 + **com**
@@ -28,8 +30,19 @@ Summary: 27 directories, 23 files, 0 Python files
             + **com**
                 + **ocr**
                     + **javafx**
+                        + **config**
                         + **controller**
+                        + **dto**
+                            + **response**
                         + **entity**
                         + **service**
+                        + **util**
+                            + **Function**
+                            + **jwt**
         + **generated-sources**
+        + **maven-archiver**
+        + **maven-status**
+            + **maven-compiler-plugin**
+                + **compile**
+                    + **default-compile**
 ```
